@@ -125,4 +125,13 @@ export const clinicData: Clinic[] = [
   { name: '劉琳榕小兒科診所', district: '新化區', services: '執行糞便篩檢' },
   { name: '佑生婦產科診所', district: '新營區', services: '執行糞便篩檢' },
   { name: '呂宗禧耳鼻喉科診所', district: '中西區', services: '執行糞便篩檢' },
+  { name: '立安診所', district: '七股區', services: '執行糞便篩檢' },
+  { name: '唐勳樟診所', district: '南區', services: '執行糞便篩檢' },
+  { name: '明美眼科診所', district: '玉井區', services: '執行糞便篩檢' },
+  { name: '陳文峯耳鼻喉科診所', district: '北區', services: '執行糞便篩檢' },
+  { name: '翁冠文診所', district: '鹽水區', services: '執行糞便篩檢' },
+  { name: '周明山診所', district: '新化區', services: '執行糞便篩檢' },
+  { name: '張銘顯診所', district: '安南區', services: '執行糞便篩檢' },
+  { name: '欣祐診所', district: '南區', services: '執行糞便篩檢及大腸鏡檢查' },
+  { name: '揚生診所', district: '白河區', services: '執行糞便篩檢' },
 ];
