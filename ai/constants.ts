@@ -128,7 +128,6 @@ export const clinicData: Clinic[] = [
   { name: '立安診所', district: '七股區', services: '執行糞便篩檢' },
   { name: '唐勳樟診所', district: '南區', services: '執行糞便篩檢' },
   { name: '明美眼科診所', district: '玉井區', services: '執行糞便篩檢' },
-  // FIX: Changed property 'a' to 'name' to match the Clinic interface.
   { name: '陳文峯耳鼻喉科診所', district: '北區', services: '執行糞便篩檢' },
   { name: '翁冠文診所', district: '鹽水區', services: '執行糞便篩檢' },
   { name: '周明山診所', district: '新化區', services: '執行糞便篩檢' },
@@ -139,4 +138,7 @@ export const clinicData: Clinic[] = [
   { name: '明如身心診所', district: '佳里區', services: '執行糞便篩檢' },
   { name: '達俊診所', district: '東區', services: '執行糞便篩檢' },
   { name: '李芳輝內小兒科診所', district: '佳里區', services: '執行糞便篩檢' },
+  { name: '項國威內科診所', district: '東區', services: '執行糞便篩檢及大腸鏡檢查' },
+  { name: '民生診所', district: '六甲區', services: '執行糞便篩檢' },
+  { name: '侯瑞合家醫科診所', district: '學甲區', services: '執行糞便篩檢及大腸鏡檢查' },
 ];
